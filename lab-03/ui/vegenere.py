@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Form implementation generated from reading ui file './ui/caesar.ui'
+# Form implementation generated from reading ui file './ui/vegenere.ui'
 #
 # Created by: PyQt5 UI code generator 5.15.11
 #
@@ -36,7 +36,7 @@ class Ui_MainWindow(object):
         self.label_5.setFont(font)
         self.label_5.setObjectName("label_5")
         self.label_2 = QtWidgets.QLabel(self.centralwidget)
-        self.label_2.setGeometry(QtCore.QRect(290, 10, 221, 41))
+        self.label_2.setGeometry(QtCore.QRect(260, 20, 241, 41))
         font = QtGui.QFont()
         font.setPointSize(24)
         self.label_2.setFont(font)
@@ -74,7 +74,7 @@ class Ui_MainWindow(object):
         self.label.setText(_translate("MainWindow", "Plain_Text"))
         self.label_4.setText(_translate("MainWindow", "Key"))
         self.label_5.setText(_translate("MainWindow", "Cipher_Text"))
-        self.label_2.setText(_translate("MainWindow", "Caesar Cipher"))
+        self.label_2.setText(_translate("MainWindow", "Vegenere Cipher"))
         self.btn_encrypt.setText(_translate("MainWindow", "Encrypt"))
         self.btn_decrypt.setText(_translate("MainWindow", "Decrypt"))
 

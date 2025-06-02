@@ -83,7 +83,7 @@
      </font>
     </property>
     <property name="text">
-     <string>Vegenere Cipher</string>
+     <string>Playfair Cipher</string>
     </property>
    </widget>
    <widget class="QPushButton" name="btn_encrypt">
